@@ -27,3 +27,27 @@ the python programs can be executed by using :
   bash 
 python3 filename.py
 
+task3 
+
+this python program validates IPv4 addressess entered
+
+features
+-uses validate_ip function
+-removes spaces which are not being used
+-checks for three dots
+-checks for four address section
+-check that the sections contains didgits
+-checks if numbers are between 0 - 255
+-shows true for valid addresses and false for invalid addresses
+
+tech used
+-python3
+-ubuntu
+-vs code
+
+how to run code
+-python3 ip_addresses_validator.py
+
+test
+-the program was tested by using valid and invalid ipv4 addresses and addresses outside the numerical range
+
