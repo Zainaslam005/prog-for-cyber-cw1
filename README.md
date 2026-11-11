@@ -27,3 +27,29 @@ the python programs can be executed by using :
   bash 
 python3 filename.py
 
+task5 
+
+-this contains a reusable cyber security functions using the python module
+
+files
+-security_tools.py
+-main.py
+
+features
+-password validation 
+-ipv4 address validitaion
+-random strong password generator 
+-reusable user defined functions
+-module importing
+
+tech
+-python3
+-ubuntu
+-vs code 
+
+how to run
+-python3 main.py
+
+test
+-i tested the program using stromg and weak passwords and valid and invalid ip addresses with random password generator
+the tests confirms the functions show the expected reuslts
